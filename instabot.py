@@ -77,7 +77,7 @@ class InstaBot:
                 like_per_day=1000,
                 media_max_like=10,
                 media_min_like=0,
-                follow_per_day=0,
+                follow_per_day=100,
                 follow_time=5*60*60,
                 unfollow_per_day=0,
                 comments_per_day=0,
