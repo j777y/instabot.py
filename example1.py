@@ -3,7 +3,7 @@
 
 from instabot import InstaBot
 
-bot = InstaBot(login="contro_versial", password="Jehovah3167",
+bot = InstaBot(login="contro_versial", password="Jehovah316",
                like_per_day=1000,
                comments_per_day=0,
                tag_list=['follow4follow', 'lol', 'cute'],
